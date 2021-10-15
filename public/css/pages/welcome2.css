@@ -1,0 +1,14 @@
+.section-title {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.section {
+    margin-top: 80px;
+}
+
+.join-button {
+    background-color: #E5014F;
+    float: right;
+}
+

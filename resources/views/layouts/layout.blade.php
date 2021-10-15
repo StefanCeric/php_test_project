@@ -23,6 +23,11 @@
         <!-- END CONTENT -->
     </div>
     <!-- END BASE -->
+    
+    <!-- BEGIN HEADER-->
+    @include('layouts.footer')
+    <!-- END HEADER-->
+    
     @include('layouts.scripts')
 </body>
 </html>

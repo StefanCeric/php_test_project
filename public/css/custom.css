@@ -1,3 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+body, html {
+    font-family: 'Montserrat';
+}
+
+header {
+    font-weight: bold;
+    border-bottom: 1px #707070;
+    
+}
+
 body {
     padding-top: 20px;
 }
@@ -6,5 +18,10 @@ body {
     margin-top: 20px;
     padding: 30px;
     background-color: #f0f3f7;
+}
+
+.footer-info {
+    vertical-align: bottom;
+    text-align: bottom;
 }
 
